@@ -1,0 +1,9 @@
+# Downloaded at setup time (6 GB) — never commit the model.
+*.gguf
+# Built at setup time.
+llama.cpp-fork/
+# Runtime files.
+server.log
+server.pid
+build.log
+__pycache__/
